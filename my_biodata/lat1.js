@@ -1,0 +1,14 @@
+let biodata = "MY BIODATA";
+document.getElementById('biodata').innerHTML = biodata;
+let nama = "Nama: Tasya Nur Febriani Putri";
+document.getElementById('nama').innerHTML = nama;
+let zodiak= "Zodiak: Aquarius";
+document.getElementById('zodiak').innerHTML = zodiak;
+let ttl = "Tanggal Lahir: 13 Februari 2007";
+document.getElementById('ttl').innerHTML = ttl;
+let hobi = "Hobi: Membaca";
+document.getElementById('hobi').innerHTML = hobi;
+let kelas = "Kelas: pplg1";
+document.getElementById('kelas').innerHTML = kelas;
+let alamat = "Alamat: Cikareo";
+document.getElementById('alamat').innerHTML = alamat;
